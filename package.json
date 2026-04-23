@@ -1,0 +1,5 @@
+{
+  "name": "nova-bot-runner-py",
+  "version": "1.0.0",
+  "description": "Python runtime for Discord bots on Nova Bot Cloud"
+}
